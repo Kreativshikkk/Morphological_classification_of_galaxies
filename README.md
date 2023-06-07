@@ -2,19 +2,19 @@
 Morphological classification of galaxies with machine learning
 
 ### learn_part.py:
-> builds, compiles and trains a model
+> Builds, compiles and trains a model
 
 ### test_part.py: 
-> tests the trained model, using a new dataset
+> Tests the trained model, using a new dataset
 
 ### basecomplete.txt: 
-> contains all of galaxy coordinates (declination, right ascension)
+> Contains all of galaxy coordinates (declination, right ascension)
 
 ### link_generator.py: 
-> generates a file with requests for downloading an image of galaxy
+> Generates a file with requests for downloading an image of galaxy
 
 ### tkinterer.py: 
-> a small application. helps us with sorting all images manually
+> A small application. Helps us with sorting all images manually
 
 ### astro_project.pdf: 
-> our research paper (in Russian)
+> Our research paper (in Russian)
